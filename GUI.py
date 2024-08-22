@@ -40,7 +40,7 @@ ctk.set_default_color_theme("blue")
 class App(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Llama-3.1-8B Assistant")
+        self.title("Phi-3.5-Mini-Instruct Voice Assistant")
         self.geometry("540x650")  # Adjusted height to accommodate the wave canvas
 
         # Variables
