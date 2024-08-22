@@ -56,8 +56,7 @@ class App(ctk.CTk):
         self.geometry("540x650")  # Adjusted height to accommodate the wave canvas
 
         # Variables
-        self.system_role = """You are a helpful Assistant, friendly and fun,
-providing users with short and concise answers to their requests."""
+        self.system_role = """You are a helpful assistant. Your answer should be between 1-4 sentences."""
         self.app_url = ""
         self.Language = "English"
         self.Gender = "Female"  # Default gender value
