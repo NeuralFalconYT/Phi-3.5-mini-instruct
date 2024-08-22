@@ -1,7 +1,7 @@
 # Phi-3.5-mini-instruct Virtual Assistant 
 
 ## Step 1: Run Phi-3.5-mini-instruct on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Llama-3.1-Virtual-Assistant/blob/main/Hermes_3_Llama_3_1_8B_API.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Phi-3.5-mini-instruct/blob/main/Phi_3_5_mini_instruct.ipynb) <br>
 [Phi-3.5-mini-instruct Hugging Face](https://huggingface.co/microsoft/Phi-3.5-mini-instruct).
 
 ### Gradio Chat Interface
