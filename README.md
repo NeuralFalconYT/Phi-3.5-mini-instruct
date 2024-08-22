@@ -19,7 +19,7 @@ cd Phi-3.5-mini-instruct
 ```
 Alternatively, download the ZIP file, extract the folder, and navigate to it:
 ```
-cd Llama-3.1-Virtual-Assistant
+cd Phi-3.5-mini-instruct
 ```
 ## Step 3: Install Required Packages
 My Python version is ```Python 3.10```<br>
