@@ -1,17 +1,21 @@
-# Llama-3.1 Virtual Assistant 
+# Phi-3.5-mini-instruct Virtual Assistant 
 
-## Step 1: Run Hermes-3-Llama-3.1-8B as Llama-3.1 Gradio API
+## Step 1: Run Phi-3.5-mini-instruct on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Llama-3.1-Virtual-Assistant/blob/main/Hermes_3_Llama_3_1_8B_API.ipynb) <br>
-Why choose [Hermes-3-Llama-3.1-8B](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B) instead of Llama-3.1-8B?<br>
-Because the response time is faster than Llama-3.1-8B.
+[Phi-3.5-mini-instruct Hugging Face](https://huggingface.co/microsoft/Phi-3.5-mini-instruct).
+
+### Gradio Chat Interface
+![chat](https://github.com/user-attachments/assets/88618a48-921c-4927-ac95-14dd17da20bb)
+### Gradio API Interface
+![api](https://github.com/user-attachments/assets/40a62200-d3ac-489c-85b7-2b0bdf1d7cfe)
 
 ## Step 2: Clone the Repository or Download ZIP
 To clone the repository:
 ```
-git clone https://github.com/NeuralFalconYT/Llama-3.1-Voice-Assistant.git
+git clone https://github.com/NeuralFalconYT/Phi-3.5-mini-instruct.git
 ```
 ```
-cd Llama-3.1-Virtual-Assistant
+cd Phi-3.5-mini-instruct
 ```
 Alternatively, download the ZIP file, extract the folder, and navigate to it:
 ```
@@ -67,15 +71,19 @@ pip uninstall -r requirements.txt
 ```
 Then, delete the folder.
 ###### You can add your own TTS if you don't want to use Edge TTS. For that, you need to write code and either spend money to buy an API or use a faster open-source TTS.
-![1](https://github.com/user-attachments/assets/315253c0-4c91-449f-81b0-dab0b028f040)
-![2](https://github.com/user-attachments/assets/3972d13c-0513-4f87-b00a-9d9f75d089a0)
-![3](https://github.com/user-attachments/assets/53f6e45f-8e85-4fc5-91e3-3daa0b9f23d1)
-![4](https://github.com/user-attachments/assets/1f20a110-dc75-4528-b981-29b9b9f78f26)
+
+![1](https://github.com/user-attachments/assets/9daef4b4-8d83-4b05-88ae-dd728cb22963)
+
+![2](https://github.com/user-attachments/assets/3952d198-e78c-4d61-8cbd-372a9c806ca0)
+
+![3](https://github.com/user-attachments/assets/f0f64aea-09b1-4b49-b856-77481e3bb112)
+
+![4](https://github.com/user-attachments/assets/22122dbf-0c1a-4927-a0e7-ac3bb8a603cd)
 
 ## Acknowledgments
 
 I would like to express my sincere gratitude to the following people and organizations:
-- **[Hermes-3-Llama-3.1-8B]**: A special thanks to the creators of [[Hermes-3-Llama-3.1-8B](https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B)] to Fine Tune the Llama-3.1.
+- **[hi-3.5-mini-instruct]**:[[Phi-3.5-mini-instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct)].
 - **[Anding Analytics]**: [[For Visualize Sound Code](https://youtu.be/675teI6-_-g?si=wT9mWgvrGRxasvNU)].
 
 
