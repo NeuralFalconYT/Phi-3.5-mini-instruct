@@ -1,4 +1,4 @@
-# Phi-3.5-mini-instruct Virtual Assistant 
+# Phi-3.5-mini-instruct Voice Assistant 
 
 ## Step 1: Run Phi-3.5-mini-instruct on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Phi-3.5-mini-instruct/blob/main/Phi_3_5_mini_instruct.ipynb) <br>
